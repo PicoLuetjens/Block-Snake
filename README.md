@@ -1,2 +1,2 @@
 # Snake
-Why not?
+Simple Snake Game
